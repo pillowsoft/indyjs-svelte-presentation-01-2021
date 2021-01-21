@@ -11,7 +11,7 @@
       src="/logo.svg"
       class="App-logo pointer-events-none m-4 h-64"
       alt="logo" />
-    <p>Edit <code>src/App.svelte</code> and save to reload</p>
+    <p>!!!Edit <code>src/App.svelte</code> and save to reload!!!</p>
     <a
       class="text-orange-500"
       href="https://svelte.dev"

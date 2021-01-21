@@ -1,6 +1,7 @@
 <script lang="typescript">
   import { onMount } from "svelte";
   import AppBar from "./app-bar.svelte";
+  import Card from "./demo-card.svelte";
 
   let drawer: any;
 
@@ -31,7 +32,8 @@
     </sl-button>
   </sl-drawer>
   <AppBar />
-  <sl-button on:click={drawer.show()}>Open Drawer!!!</sl-button>
+  <sl-button on:click={drawer.show()}>Open Drawer!!!!!</sl-button>
+  <!-- <Card /> -->
 </sl-theme>
 
 <style>
